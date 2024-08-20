@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LILY_vi-VN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi-VN
+  m_SharedData: {fileID: 11400000, guid: b16df945b520dbd4f8e5aa50ecba4a23, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 72480808960
+    m_Localized: "Theo nh\u01B0 t\u1EA5m b\u1EA3n \u0111\u1ED3, ch\xFAng ta c\u1EA7n
+      thu th\u1EADp ba vi\xEAn \u0111\xE1 qu\xFD."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78369611776
+    m_Localized: "M\u1ED9t vi\xEAn \u0111\u01B0\u1EE3c gi\u1EA5u s\xE2u d\u01B0\u1EDBi
+      bi\u1EC3n s\xE2u th\u1EB3m,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82870099968
+    m_Localized: "m\u1ED9t vi\xEAn \u1EDF v\xF9ng b\u0103ng tuy\u1EBFt l\u1EA1nh
+      l\u1EBDo,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89216081920
+    m_Localized: "v\xE0 vi\xEAn cu\u1ED1i c\xF9ng b\xEAn r\xECa mi\u1EC7ng n\xFAi
+      l\u1EEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101564112896
+    m_Localized: "Ch\xFAng ta h\xE3y chia ra \u0111\u1EC3 t\xECm ch\xFAng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108451160064
+    m_Localized: "C\u1EADu h\xE3y h\u01B0\u1EDBng ra \u0111\u1EA1i d\u01B0\u01A1ng
+      v\xE0 t\xECm vi\xEAn \u0111\u1EA7u ti\xEAn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115455647744
+    m_Localized: "Ava s\u1EBD t\u1EDBi v\xF9ng b\u0103ng tuy\u1EBFt,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121109569536
+    m_Localized: "v\xE0 t\u1EDB s\u1EBD t\u1EDBi mi\u1EC7ng n\xFAi l\u1EEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125085769728
+    m_Localized: "Khi t\xECm ra h\u1EBFt c\xE1c vi\xEAn \u0111\xE1, ch\xFAng ta s\u1EBD
+      g\u1EB7p nhau t\u1EA1i ch\u1ED7 c\u1EE7a Ava."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129217159168
+    m_Localized: "H\xE3y h\xE0nh \u0111\u1ED9ng nhanh ch\xF3ng."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

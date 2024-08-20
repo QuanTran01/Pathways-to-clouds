@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HINT_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 668a12c508df7eb40bd85dbc2092c561, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 60426379264
+    m_Localized: Hope you guys enjoy this game :)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73319669760
+    m_Localized: Stand on a button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30646671073280
+    m_Localized: You cannot swim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5913560834048
+    m_Localized: becare about traps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30676802953216
+    m_Localized: Push the box to make your way
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32131148505088
+    m_Localized: "Try another way\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32152489123840
+    m_Localized: Push the wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32699665440768
+    m_Localized: Trust your self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32714320338944
+    m_Localized: jump over it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33262100635648
+    m_Localized: Don't Trust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33280014508032
+    m_Localized: Go back on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33293100736512
+    m_Localized: Carefully
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33309508853760
+    m_Localized: im not sure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33321185796096
+    m_Localized: Go on your own path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33339640733696
+    m_Localized: Drag the Saws to another location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33351351230464
+    m_Localized: it is too far to jump over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33374000472064
+    m_Localized: CLOUDS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33400474918912
+    m_Localized: Enter the aquarium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33418632060928
+    m_Localized: You get notthing here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220709837168640
+    m_Localized: Click on a button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220715163934720
+    m_Localized: You get notthing here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220762081419264
+    m_Localized: you hate crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220766040842240
+    m_Localized: Open the Treasure chest and get a key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220789688328192
+    m_Localized: you can destroy something here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220807941939200
+    m_Localized: Hold the box for 3 seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220820189306880
+    m_Localized: you can't destroy something here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220832201793536
+    m_Localized: Push the box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220845120249856
+    m_Localized: they hate pirate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220846701502464
+    m_Localized: Open the treasure chest to get a key and close it immediately.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223440152911872
+    m_Localized: 'Passing by the chest will reveal a hidden path right below.
+
+
+
+
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223435799224320
+    m_Localized: Becare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223445991383040
+    m_Localized: you cant jump over it in the water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223446863798272
+    m_Localized: 'just walk over
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223449581707264
+    m_Localized: you can jump over it in the water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223450420568064
+    m_Localized: Drag yourself over it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223453943783424
+    m_Localized: just pause this level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223453239140352
+    m_Localized: stop the sharks or ignore the treasure chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223457601216512
+    m_Localized: welcome to the frozen kingdom!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223458372968448
+    m_Localized: Seriously???
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
